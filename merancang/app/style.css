@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Utsmani';
+	src: url('../aset/UthmanicHafs1 Ver09.OTF');
+}
+
+body {
+	padding-top: 70px;
+}
+
+.arab {
+	direction: rtl;
+	font-family: 'Utsmani';
+	line-height: 2;
+}
+
+.isi {
+	line-height: 1.5;
+}
+
+.navbar-brand {
+	padding: 9px;
+}
