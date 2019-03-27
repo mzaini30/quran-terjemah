@@ -7,8 +7,9 @@
 	<title>Quran Pengajian</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/vendor/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/app/style.css">
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="app/style.css">
+	<script type="text/javascript" src="vendor/jquery/jquery.min.js"></script>
 </head>
 <body>
 	<div class="navbar navbar-default navbar-fixed-top">
@@ -20,11 +21,10 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			    </button>
-				<!-- <a href="#!" class="navbar-brand top">Quran Pengajian</a> -->
 				<div class="navbar-brand">
-					<form class="form">
+					<form>
 						<div class="form-group">
-							<input type="number" step="any" class="form-control cari" placeholder="5.54 (surat, titik, ayat)">
+							<input type="text" class="form-control cari" placeholder="5:54 (surat, titik dua, ayat)">
 						</div>
 					</form>
 				</div>
@@ -38,12 +38,11 @@
 		    </div>
 		</div>
 	</div>
+	<script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="app/app.js"></script>
 
 	<div class="container">
 		{{ content }}
 	</div>
-	<script type="text/javascript" src="{{ site.url }}/vendor/jquery/jquery.min.js"></script>
-	<script type="text/javascript" src="{{ site.url }}/vendor/bootstrap/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="{{ site.url }}/app/app.js"></script>
 </body>
 </html>
