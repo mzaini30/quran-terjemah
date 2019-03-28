@@ -1,14 +1,9 @@
-menuju = function(x){
-	$('html, body').animate({
-		scrollTop: $(x).offset().top - 50
-	}, 800)
-}
-
 $('form').on('submit', function(event){
 	event.preventDefault()
-	cari = $(this).find('.cari').val()
-	cari = cari.replace(/:/g, '_')
-	menuju('.bagian_' + cari)
+
+	cari = $('.cari').val()
+	cari = cari.replace(/(.+)\.(.+)/g, '$1.html?bagian_$1_$2')
+	location.href = cari
 })
 
 $('.navbar-nav a').click(function(){

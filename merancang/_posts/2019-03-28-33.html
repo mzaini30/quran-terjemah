@@ -1,0 +1,17 @@
+---
+layout: default
+title: Al Ahzab
+---
+
+<h1>Surat {{ site.nama_surat[32] }}</h1>
+{% for x in site.surat_33 %}
+	<div class="row bagian_33_{{ x.nomor }}">
+		<div class="col-xs-2">
+			<h2>{{ x.nomor }}</h2>
+		</div>
+		<div class="col-xs-10">
+			<h2 class="arab">{{ x.arab }}</h2>
+			<h4 class="isi">{{ x.indonesia }}</h4>
+		</div>
+	</div>
+{% endfor %}
