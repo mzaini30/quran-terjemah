@@ -441,7 +441,7 @@ surat_2:
     indonesia: "Lalu Kami berfirman: 'Pukullah mayat itu dengan sebahagian anggota sapi betina itu!' Demikianlah Allah menghidupkan kembali orang-orang yang telah mati, dam memperlihatkan padamu tanda-tanda kekuasaan-Nya agar kamu mengerti."
   -
     nomor: 74
-    arab: "ثُمَّ قَسَتۡ قُلُوبُكُم مِّنۢ بَعۡدِ ذَٰلِكَ فَهِيَ كَٱلۡحِجَارَةِ أَوۡ أَشَدُّ قَسۡوَةٗۚ وَإِنَّ مِنَ ٱلۡحِجَارَةِ لَمَا يَتَفَجَّرُ مِنۡهُ ٱلۡأَنۡهَٰرُۚ وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا يَشَّقَّقُ فَيَخۡرُجُ مِنۡهُ ٱلۡمَآءُۚ وَإِنَّ مِنۡهَا لَمَا يَهۡبِطُ مِنۡ  "
+    arab: "ثُمَّ قَسَتْ قُلُوْبُكُمْ مِّنْۢ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً ۗ وَاِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْاَنْهٰرُ ۗ وَاِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاۤءُ ۗوَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ ۗوَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُوْنَ"
     indonesia: "Kemudian setelah itu hatimu menjadi keras seperti batu, bahkan lebih keras lagi. Padahal diantara batu-batu itu sungguh ada yang mengalir sungai-sungai dari padanya dan diantaranya sungguh ada yang terbelah lalu keluarlah mata air dari padanya dan diantaranya sungguh ada yang meluncur jatuh, karena takut kepada Allah. Dan Allah sekali-sekali tidak lengah dari apa yang kamu kerjakan."
   -
     nomor: 75
@@ -453,7 +453,7 @@ surat_2:
     indonesia: "Dan apabila mereka berjumpa dengan orang-orang yang beriman, mereka berkata: 'Kamipun telah beriman,' tetapi apabila mereka berada sesama mereka saja, lalu mereka berkata: 'Apakah kamu menceritakan kepada mereka (orang-orang mukmin) apa yang telah diterangkan Allah kepadamu, supaya dengan demikian mereka dapat mengalahkan hujjahmu di hadapan Tuhanmu; tidakkah kamu mengerti?'"
   -
     nomor: 77
-    arab: "أَوَ لَا يَعۡلَمُونَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ وَمِنۡهُمۡ  "
+    arab: "أَوَ لَا يَعۡلَمُونَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ "
     indonesia: "Tidakkah mereka mengetahui bahwa Allah mengetahui segala yang mereka sembunyikan dan segala yang mereka nyatakan?"
   -
     nomor: 78
@@ -573,7 +573,7 @@ surat_2:
     indonesia: "Ayat mana saja yang Kami nasakhkan, atau Kami jadikan (manusia) lupa kepadanya, Kami datangkan yang lebih baik daripadanya atau yang sebanding dengannya. Tidakkah kamu mengetahui bahwa sesungguhnya Allah Maha Kuasa atas segala sesuatu?"
   -
     nomor: 107
-    arab: "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ  "
+    arab: "اَلَمْ تَعْلَمْ اَنَّ اللّٰهَ لَهُ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ ۗ وَمَا لَكُمْ مِّنْ دُوْنِ اللّٰهِ مِنْ وَّلِيٍّ وَّلَا نَصِيْرٍ"
     indonesia: "Tiadakah kamu mengetahui bahwa kerajaan langit dan bumi adalah kepunyaan Allah? Dan tiada bagimu selain Allah seorang pelindung maupun seorang penolong."
   -
     nomor: 108
@@ -2397,7 +2397,7 @@ surat_4:
     indonesia: "Mengapa kamu tidak mau berperang di jalan Allah dan (membela) orang-orang yang lemah baik laki-laki, wanita-wanita maupun anak-anak yang semuanya berdoa: 'Ya Tuhan kami, keluarkanlah kami dari negeri ini (Mekah) yang zalim penduduknya dan berilah kami pelindung dari sisi Engkau, dan berilah kami penolong dari sisi Engkau!'."
   -
     nomor: 76
-    arab: "ٱلَّذِينَ ءَامَنُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ وَٱلَّذِينَ كَفَرُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ وَٱلَّذِينَ كَفَرُواْ يُقَٰتِلُونَ فِي سَبِيلِ ٱلطَّٰغُوتِ كَانَ ضَعِيفًا  "
+    arab: "اَلَّذِيْنَ اٰمَنُوْا يُقَاتِلُوْنَ فِيْ سَبِيْلِ اللّٰهِ ۚ وَالَّذِيْنَ كَفَرُوْا يُقَاتِلُوْنَ فِيْ سَبِيْلِ الطَّاغُوْتِ فَقَاتِلُوْٓا اَوْلِيَاۤءَ الشَّيْطٰنِ ۚ اِنَّ كَيْدَ الشَّيْطٰنِ كَانَ ضَعِيْفًا ۚ "
     indonesia: "Orang-orang yang beriman berperang di jalan Allah, dan orang-orang yang kafir berperang di jalan thaghut, sebab itu perangilah kawan-kawan syaitan itu, karena sesungguhnya tipu daya syaitan itu adalah lemah."
   -
     nomor: 77
@@ -21287,7 +21287,7 @@ surat_67:
     indonesia: "Dan sesungguhnya orang-orang yang sebelum mereka telah mendustakan (rasul-rasul-Nya). Maka alangkah hebatnya kemurkaan-Ku."
   -
     nomor: 19
-    arab: "أَوَ لَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۢ بَصِيرٌ  "
+    arab: "أَوَ لَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۢ بَصِيرٌ  "
     indonesia: "Dan apakah mereka tidak memperhatikan burung-burung yang mengembangkan dan mengatupkan sayapnya di atas mereka? Tidak ada yang menahannya (di udara) selain Yang Maha Pemurah. Sesungguhnya Dia Maha Melihat segala sesuatu."
   -
     nomor: 20
