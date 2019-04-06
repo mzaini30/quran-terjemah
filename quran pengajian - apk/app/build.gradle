@@ -6,8 +6,8 @@ android {
         applicationId "com.mzaini30.quranpengajian"
         minSdkVersion 15
         targetSdkVersion 28
-        versionCode 5
-        versionName "5"
+        versionCode 9
+        versionName "9"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
